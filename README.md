@@ -19,10 +19,22 @@ This project focuses on streamlining the machine learning model development proc
 
 
 ### Airflow & Cloud Composer
-- Intro
-- Infrastructure
-- Tools and Technologies
-- Usage
+#### Intro
+This project aims to demonstrate the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. The project will cover tasks such as data inception, processing, feature engineering, model training, and evaluation - which could then be deployed.
+
+
+
+#### Infrastructure
+#### Tools and Technologies
+The following tools and technologies will be used in this project:
+- Apache Airflow
+- Google Cloud Composer
+- Google Cloud Storage
+- Google Cloud AI Platform
+- TensorFlow
+
+
+#### Usage
 
 
 ### TFX
