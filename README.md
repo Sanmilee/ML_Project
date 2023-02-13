@@ -20,7 +20,7 @@ This project focuses on streamlining the machine learning model development proc
 
 ### 2 Airflow and Cloud Composer
 #### Intro
-This project demonstrate the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. The project will cover tasks such as data inception, processing, feature engineering, model training, and evaluation - which could then be deployed.
+This project demonstrate the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. This will involve defining the workflow as a series of tasks, and configuring each task to run automatically in response to specific events or conditions. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. The project will cover tasks such as data inception, processing, feature engineering, model training, and evaluation - which could then be deployed.
 
 
 
@@ -44,7 +44,7 @@ The following tools and technologies will be used in this project:
 
 
 #### Usage
-The entire workflow will be automated using Apache Airflow and Google Cloud Composer. This will involve defining the workflow as a series of tasks, and configuring each task to run automatically in response to specific events or conditions. To take advantage of scalbility in the cloud, the dags are defined in associated GCS buckets and excuted in composer airflow automatically. The running dags can be viewed in the airflow web UI page.
+The entire workflow will be automated using Apache Airflow and Google Cloud Composer. To take advantage of scalability in the cloud, the dags are defined in associated GCS buckets and excuted in composer airflow automatically. The running dags can be viewed in the airflow web UI page.
 
 
 ![images1](1-Airflow/images/dag_img_2.png)
