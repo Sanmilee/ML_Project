@@ -6,9 +6,9 @@
 ### Table of Contents
 ***
 1. [Project Overview](#1-project-overview)
-2. [Airflow & Cloud Composer](#airflow-&-cloud-composer)
-3. [TFX](#tfx)
-4. [Kubeflow Pipeles with GCP Vertex AI](#kubeflow-pipeles-with-gcp-vertex-ai)
+2. [Airflow & Cloud Composer](#2-airflow-and-cloud-composer)
+3. [TFX](#3-tfx)
+4. [Kubeflow Pipeles with GCP Vertex AI](#4-kubeflow-pipeles-with-gcp-vertex-ai)
 
 ***
 ### 1 Project Overview
@@ -18,7 +18,7 @@ This project focuses on streamlining the machine learning model development proc
 - Three projects are described here with diffrent ML orchestrating and pipline tools/platform (Airflow, TFX and Vertex AI)
 ***
 
-### 2. Airflow & Cloud Composer
+### 2 Airflow and Cloud Composer
 #### Intro
 This project aims to demonstrate the use of Apache Airflow and Google Cloud Composer for orchestrating machine learning workflows. The goal is to showcase the benefits of using a workflow management system for managing the end-to-end lifecycle of machine learning models. The project will cover tasks such as data inception, processing, feature engineering, model training, and evaluation - which could then be deployed.
 
@@ -78,14 +78,14 @@ The entire workflow will be automated using Apache Airflow and Google Cloud Comp
 
 
 ***
-### 3. TFX
+### 3 TFX
 - Intro
 - Infrastructure
 - Tools and Technologies
 - Usage
 
 ***
-### 4. Kubeflow Pipeles with GCP Vertex AI
+### 4 Kubeflow Pipeles with GCP Vertex AI
 - Intro
 - Infrastructure
 - Tools and Technologies
