@@ -6,16 +6,16 @@
 
 ## Table of Contents
 ***
-- [Intro](###intro)
-- [Airflow & Cloud Composer](###airflow-&-cloud-composer)
-- [TFX](###tfx)
-- [Kubeflow Pipeles with GCP Vertex AI](###kubeflow-pipeles-with-gcp-vertex-ai)
+- [Intro](#intro)
+- [Airflow & Cloud Composer](#airflow-&-cloud-composer)
+- [TFX](#tfx)
+- [Kubeflow Pipeles with GCP Vertex AI](#kubeflow-pipeles-with-gcp-vertex-ai)
 
 ***
-### Intro
-### Airflow & Cloud Composer
-### TFX
-### Kubeflow Pipeles with GCP Vertex AI
+# Intro
+# Airflow & Cloud Composer
+# TFX
+# Kubeflow Pipeles with GCP Vertex AI
 
 
 
