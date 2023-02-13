@@ -3,19 +3,24 @@
 ***
 
 
-
-## Table of Contents
+### Table of Contents
 ***
-- [Intro](#intro)
+- [Project Overview](#project-overview)
 - [Airflow & Cloud Composer](#airflow-&-cloud-composer)
 - [TFX](#tfx)
 - [Kubeflow Pipeles with GCP Vertex AI](#kubeflow-pipeles-with-gcp-vertex-ai)
 
 ***
-# Intro
-# Airflow & Cloud Composer
-# TFX
-# Kubeflow Pipeles with GCP Vertex AI
+### Project Overview
+
+This project focuses on streamlining the machine learning model development process by implementing MLOps best practices and tools. The goal is to ensure that models are developed in a sustainable, scalable, and repeatable manner. 
+
+- Three projects are described here with diffrent ML orchestrating and pipline tools/platform (Airflow, TFX and Vertex AI)
+
+
+### Airflow & Cloud Composer
+### TFX
+### Kubeflow Pipeles with GCP Vertex AI
 
 
 
