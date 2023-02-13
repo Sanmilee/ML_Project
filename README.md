@@ -8,7 +8,7 @@
 1. [Project Overview](#1-project-overview)
 2. [Airflow & Cloud Composer](#2-airflow-and-cloud-composer)
 3. [TFX](#3-tfx)
-4. [Kubeflow Pipeles with GCP Vertex AI](#4-kubeflow-pipeles-with-gcp-vertex-ai)
+4. [Kubeflow Pipelines with GCP Vertex AI](#4-kubeflow-pipelines-with-gcp-vertex-ai)
 
 ***
 ### 1 Project Overview
@@ -73,28 +73,10 @@ The project is executed by running the main script via `python main.py`
 
 
 ***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-***
-### 4 Kubeflow Pipeles with GCP Vertex AI
+### 4 Kubeflow Pipelinees with GCP Vertex AI
 #### Intro
+This project demonstrate the use of Kubeflow Pipelines and Google Cloud Vertex AI for orchestrating machine learning workflows. The goal is to showcase the benefits of using these tools for managing the end-to-end lifecycle of machine learning models. The project will cover the automation of tasks such as data processing, feature engineering, model training, deployment, and monitoring.
+
 
 
 
@@ -102,11 +84,19 @@ The project is executed by running the main script via `python main.py`
 
 
 #### Infrastructure
+showcase the efficiency and scalability gains that can be achieved through the use of these tools.
+
 
 
 
 #### Tools and Technologies
-
+The following tools and technologies will be used in this project:
+- Kubeflow Pipelines
+- Google Cloud Vertex AI
+- TensorFlow
+- Google Cloud Storage
+- Google Cloud AI Platform
+- TensorBoard
 
 #### Usage
 
