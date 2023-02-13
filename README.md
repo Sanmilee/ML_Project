@@ -5,13 +5,13 @@
 
 ### Table of Contents
 ***
-1. [Project Overview](#project-overview)
+1. [Project Overview](#1)-project-overview)
 2. [Airflow & Cloud Composer](#airflow-&-cloud-composer)
 3. [TFX](#tfx)
 4. [Kubeflow Pipeles with GCP Vertex AI](#kubeflow-pipeles-with-gcp-vertex-ai)
 
 ***
-### Project Overview
+### 1) Project Overview
 
 This project focuses on streamlining the machine learning model development process by implementing MLOps best practices and tools. The goal is to ensure that models are developed in a sustainable, scalable, and repeatable manner. The project is defined as config-based.
 
