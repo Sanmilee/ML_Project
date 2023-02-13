@@ -29,11 +29,14 @@ The entire workflow will be automated using Apache Airflow and Google Cloud Comp
 
 
 
-![images1](images/dag_img_1.png)
+<!-- ![images1](images/dag_img_1.png)
 
-![images1](images/dag_img_2.png)
+![images1](images/dag_img_2.png) -->
 
 <p align="center" width="100%">
     <img width="60%" src="images/dag_img_1.png">
 </p>
 
+<p align="center" width="100%">
+    <img width="60%" src="images/dag_img_2.png">
+</p>
