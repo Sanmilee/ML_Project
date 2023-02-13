@@ -5,7 +5,7 @@
 
 ### Table of Contents
 ***
-1. [Project Overview](#1.-project-overview)
+1. [Project Overview](#project-overview)
 2. [Airflow & Cloud Composer](#airflow-&-cloud-composer)
 3. [TFX](#tfx)
 4. [Kubeflow Pipeles with GCP Vertex AI](#kubeflow-pipeles-with-gcp-vertex-ai)
