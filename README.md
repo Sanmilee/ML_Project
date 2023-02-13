@@ -19,9 +19,24 @@ This project focuses on streamlining the machine learning model development proc
 
 
 ### Airflow & Cloud Composer
-### TFX
-### Kubeflow Pipeles with GCP Vertex AI
+- Intro
+- Infrastructure
+- Tools and Technologies
+- Usage
 
+
+### TFX
+- Intro
+- Infrastructure
+- Tools and Technologies
+- Usage
+
+
+### Kubeflow Pipeles with GCP Vertex AI
+- Intro
+- Infrastructure
+- Tools and Technologies
+- Usage
 
 
 ### 1. Task
