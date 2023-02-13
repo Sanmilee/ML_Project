@@ -29,3 +29,4 @@ The entire workflow will be automated using Apache Airflow and Google Cloud Comp
 
 
 
+![images1](images/dag_image.png)
