@@ -1,16 +1,21 @@
+## MLOps Projects
+- Displaying practices, tools and implementation that aims to deploy and maintain machine learning models in production reliably and efficiently. 
+***
 
 
 
+## Table of Contents
+***
+- [Intro](#intro)
+- [Airflow & Cloud Composer](#airflow-&-cloud-composer)
+- [TFX](#tfx)
+- [Kubeflow Pipeles with GCP Vertex AI](#kubeflow-pipeles-with-gcp-vertex-ai)
 
-## Contents
-1. [Task](###task)
-
-2. [Data](###data)
-
-3. [Requirements](###requirements)
-
-4. [Files](###files)
-
+***
+# Intro
+# Airflow & Cloud Composer
+# TFX
+# Kubeflow Pipeles with GCP Vertex AI
 
 
 
