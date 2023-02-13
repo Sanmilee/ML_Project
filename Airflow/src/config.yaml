@@ -1,0 +1,9 @@
+# input data and cleaned data path
+input_data:
+    training_data: /airflow/data/creditcard.csv
+    cleaned_data: /airflow/data/creditcard_cleaned.csv
+
+# output artefact paths for model and model score
+output_path:
+    model_path: /airflow/src/
+    model_result_score: /airflow/src/data.json
