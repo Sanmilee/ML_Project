@@ -28,11 +28,6 @@ The following tools and technologies will be used in this project:
 The entire workflow will be automated using Apache Airflow and Google Cloud Composer. This will involve defining the workflow as a series of tasks, and configuring each task to run automatically in response to specific events or conditions. To take advantage of scalbility in the cloud, the dags are defined in associated GCS buckets and excuted in composer airflow automatically. The running dags can be viewed in the airflow web UI page.
 
 
-
-<!-- ![images1](images/dag_img_1.png)
-
-![images1](images/dag_img_2.png) -->
-
 <p align="center" width="100%">
     <img width="60%" src="images/dag_img_1.png">
 </p>
