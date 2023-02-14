@@ -26,7 +26,7 @@ The entire workflow is defined using TFX. This will involve defining the workflo
 
 
 <p align="center" width="100%">
-    <img width="96%" src="images/tfx.JPG">
+    <img width="110%" src="images/tfx.JPG">
 </p>
 
 <p align="center" width="100%">
