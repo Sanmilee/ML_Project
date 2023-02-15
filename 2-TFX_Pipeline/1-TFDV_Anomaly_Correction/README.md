@@ -4,5 +4,5 @@ Using Tensorflow Data Validation components (ExampleGen, StatisticsGen, SchemaGe
 
 
 <p align="center" width="100%">
-    <img width="60%" src="tfx.png">
+    <img width="60%" src="data/tfx.png">
 </p>
