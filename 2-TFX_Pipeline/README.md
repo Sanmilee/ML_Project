@@ -14,9 +14,11 @@ The project consists of a jupyter notebook file which shows the execution of the
 
 #### Tools and Technologies
 The following tools and technologies will be used in this project:
-- TFX
 - Tensorflow
-- TensorFlow
+- TFX
+- TFDV
+- TFMA
+- TFT
 - Scikit-learn
 - Pandas
 
@@ -27,8 +29,4 @@ The entire workflow is defined using TFX. This will involve defining the workflo
 
 <p align="center" width="100%">
     <img width="110%" src="images/tfx.JPG">
-</p>
-
-<p align="center" width="100%">
-    <img width="60%" src="images/dag_img_2.png">
 </p>
