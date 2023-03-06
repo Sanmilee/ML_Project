@@ -1,0 +1,10 @@
+
+utils:
+    region: region
+    project_id: project_id
+    bucket_name: gs://bucket_name
+    service_account: service_account@project_id.iam.gserviceaccount.com
+    base_image: eu.gcr.io/base_image:latest
+    pipeline_root: gs://bucket_name/pipeline_root/
+    dataset: project_id.dataset.table_name
+    container_image: eu.gcr.io/container_image:latest
