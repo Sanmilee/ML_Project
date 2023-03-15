@@ -66,7 +66,7 @@ The following tools and technologies will be used in this project:
 #### Usage
 The entire workflow will be automated using Apache Airflow and Google Cloud Composer. To take advantage of scalability in the cloud, the dags are defined in associated GCS buckets and excuted in composer airflow automatically. The running dags can be viewed in the airflow web UI page.
 
-![images1](2-Airflow/images/dag_img_2.png)
+<!-- ![images1](2-Airflow/images/dag_img_2.png) -->
 
 ***
 ### 4 TFX End-to-end ML Pipeline
