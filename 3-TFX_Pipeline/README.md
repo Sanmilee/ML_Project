@@ -1,4 +1,4 @@
-## TFX Orchestrating for ML Pipeline
+## End-to-end ML Pipeline with TFX 
 ***
 #### Intro
 TFX (TensorFlow Extended) is a framework for building end-to-end machine learning pipelines that leverages the power of TensorFlow. TFX provides a set of components that can be assembled to create a complete machine learning workflow, including data ingestion, data validation, training, evaluation, and serving. One of the key features of TFX is its ability to orchestrate the different components of the machine learning pipeline. 
