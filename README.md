@@ -18,7 +18,7 @@ This project focuses on streamlining the machine learning model development proc
 - Three projects are described here with diffrent ML orchestrating and pipline tools/platform (Airflow, TFX and Vertex AI)
 
 ***
-### 2 Kubeflow Pipelinees with GCP Vertex AI
+### 2 Kubeflow Pipelines with GCP Vertex AI
 #### Intro
 This project demonstrate the use of Kubeflow Pipelines and Google Cloud Vertex AI to simplify the entire ML workflow to build, train, deploy and serve ML models in a distributed manner. The goal is to showcase the benefits of using these tools for managing the end-to-end lifecycle of machine learning models. The project will cover the automation of tasks such as data processing, feature engineering, model training, deployment, and monitoring.
 
